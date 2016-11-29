@@ -4,3 +4,6 @@ d:\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug
 d:\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
 d:\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 d:\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\dongs\Source\Repos\CSharp-Indetify-Check\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\dongs\Source\Repos\CSharp-Indetify-Check\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\dongs\Source\Repos\CSharp-Indetify-Check\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
